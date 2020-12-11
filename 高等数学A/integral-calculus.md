@@ -64,7 +64,25 @@ Problem - 求 $\int \tan^nx\sec^mx\mathrm dx$。
 
 把上面的式子反着用： $\int f(x)\mathrm dx=\int f[\psi(t)]\psi'(t)\mathrm dt$ ，其中 $t=\psi^{-1}(x)$；使用条件： $x=\psi(t)$ 在 $t$ 的区间上单调、可导并且 $\psi(t)\neq 0$。
 
+积分表扩充：
+
+| 编号 | 积分 |
+| ---- | ---- |
+| 14   |      |
+| 15   |      |
+| 16   |      |
+| 17   |      |
+| 18   |      |
+| 19   |      |
+| 20   |      |
+| 21   |      |
+| 22   |      |
+| 23   |      |
+| 24   |      |
+
 ### 4.3 分部积分法
+
+(1) **分步积分公式**：由导数的乘法法则： $(uv)'=u'v+v'u$ 进行积分，得到： $\int uv'\mathrm dx=uv-\int u'v\mathrm dx$ ；或者写成 $\int u\mathrm dv=uv-\int v\mathrm du$ 。 
 
 ### 4.4 有理函数的积分
 
